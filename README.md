@@ -33,6 +33,6 @@ real **UCI Online Retail II** dataset (805,549 transactions, 5,878 customers, De
 **Locally**:
 ```bash
 pip install -r requirements.txt
-jupyter notebook customer_analysis.ipynb
+jupyter notebook customer analysis.ipynb
 ```
 Update the `path` variable in the data-loading cell to your local copy of `online_retail_II.xlsx`.
